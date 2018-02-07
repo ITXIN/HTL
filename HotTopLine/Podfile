@@ -1,0 +1,18 @@
+platform:ios,'9.0'
+use_frameworks!
+target 'HotTopLine' do
+	pod 'SnapKit'
+	pod 'Alamofire'
+	pod 'SVProgressHUD'
+	pod 'SwiftyJSON'
+	pod 'FontAwesomeKit'
+    pod 'Kingfisher'
+#	pod 'RAMAnimatedTabBarController', "~> 2.0.13"
+	pod 'LTMorphingLabel'
+#    pod 'FFToast'//OC
+    pod 'PMAlertController' # 9.xx
+#    pod 'PullToBounce'#下拉刷新 有点老了
+
+
+end
+
