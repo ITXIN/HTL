@@ -14,6 +14,8 @@ class HTLRootViewController: UIViewController,UITableViewDelegate,UITableViewDat
     var tableView : UITableView!
     var dataArr = NSMutableArray.init()
     let reuseID = "reuseRootCell"
+    let testStr = "test"
+    
     
     
     override func viewDidLoad() {
