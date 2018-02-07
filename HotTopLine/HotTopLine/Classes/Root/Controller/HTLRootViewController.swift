@@ -38,7 +38,6 @@ class HTLRootViewController: UIViewController,UITableViewDelegate,UITableViewDat
         }
     }
     func coinfigSubviews() {
-        
         //        let tapAction = UITapGestureRecognizer.init(target: self, action:#selector(self.tapAction))
         //        rootView.addGestureRecognizer(tapAction)
         self.view.addSubview(rootView)
